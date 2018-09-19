@@ -32,8 +32,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'spree', '3.4.4'
 gem 'spree_auth_devise', '3.3.3'
 gem 'spree_gateway', '~> 3.3'
+# gem 'spree_order_events_tracker' , path: '../spree_order_events_tracker'
 gem 'spree_order_events_tracker' , github: 'vinsol-spree-contrib/spree_order_events_tracker', branch: 'develop'
-gem 'vertical-timeline-rails'
 
 
 

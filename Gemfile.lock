@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/vinsol-spree-contrib/spree_order_events_tracker.git
-  revision: 2b25f5e5bca33c385e43fcd8dc196a574a0990e0
+  revision: 6279c1d6324bde8458cec13f9a902c5f4b4655a5
   branch: develop
   specs:
     spree_order_events_tracker (0.0.1.alpha)
@@ -354,7 +354,6 @@ GEM
       activesupport (>= 3.2)
       railties (>= 3.2)
       tzinfo
-    vertical-timeline-rails (0.1.0)
     warden (1.2.7)
       rack (>= 1.0)
     web-console (3.6.2)
@@ -391,7 +390,6 @@ DEPENDENCIES
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
-  vertical-timeline-rails
   web-console (>= 3.3.0)
 
 BUNDLED WITH
