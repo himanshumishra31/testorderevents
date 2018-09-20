@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/vinsol-spree-contrib/spree_order_events_tracker.git
-  revision: 6279c1d6324bde8458cec13f9a902c5f4b4655a5
+  revision: d2335dcc5c4df91f54bb1e64c2a2521d88a1a0df
   branch: develop
   specs:
     spree_order_events_tracker (0.0.1.alpha)
